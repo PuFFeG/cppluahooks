@@ -1,0 +1,22 @@
+{
+    "items": [
+        {"item": "Head010_5", "quantity": 1},
+        {"item": "ClothArmor_2", "quantity": 1},
+        {"item": "WeakerBow", "quantity": 1},
+        {"item": "arrow", "quantity": 500},
+        {"item": "Glider_Old", "quantity": 1},
+        {"item": "GrapplingGun", "quantity": 1},
+        {"item": "Shield_01", "quantity": 1},
+        {"item": "PalSphere", "quantity": 500},
+        {"item": "axe_Tier_02", "quantity": 1},
+        {"item": "Pickaxe_Tier_02", "quantity": 1},
+        {"item": "Lantern", "quantity": 2},
+        {"item": "AutoMealPouch_Tier1", "quantity": 1},
+        {"item": "Accessory_CoolResist_3", "quantity": 1},
+        {"item": "Accessory_HeatResist_3", "quantity": 1},
+        {"item": "PalSphere_Legend", "quantity": 10},
+        {"item": "TechnologyBook_G1", "quantity": 1},
+        {"item": "Salad", "quantity": 50}
+    ]
+}
+
